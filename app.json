@@ -1,8 +1,8 @@
 {
-  "name": "sᴋ-ʜᴀᴄᴋᴇʀ",
+  "name": "SK-HACKER-BOT",
   "description": "Javascript WhatsApp bot made by ✦ sᴋ ʜᴀᴄᴋᴇʀ ✦",
   "logo": "https://files.catbox.moe/ypqbhs.jpg",
-  "keywords": ["SK HACKER"],
+  "keywords": ["bot"],
   "success_url": "/",
 
     "stack": "container",
